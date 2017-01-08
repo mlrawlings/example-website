@@ -1,0 +1,14 @@
+{
+  "name": "markojs-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "marko": "^4.0.0-beta.15",
+    "new-marko-app": "github:mlrawlings/new-marko-app"
+  },
+  "scripts": {
+    "start": "marko-app start",
+    "build": "marko-app build",
+    "eject": "marko-app eject"
+  }
+}

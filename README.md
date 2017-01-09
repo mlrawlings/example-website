@@ -1,5 +1,5 @@
 # example-website
-An example website built using `new-marko-app`
+An example website built using [`new-marko-app`](https://github.com/mlrawlings/new-marko-app)
 
 View it online at [https://mlrawlings.github.io/example-website/](https://mlrawlings.github.io/example-website/)
 
